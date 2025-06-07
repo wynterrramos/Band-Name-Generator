@@ -5,7 +5,7 @@ This is a simple Python script that asks the user for a city and a pet name to g
 
 ## What I Learned
 
-* How to use `input()` to get user input  
+* How to use `input()` to get input from user
 * How to store data in variables  
 * How to use string concatenation  
 * Basic terminal interaction using `print()`
