@@ -1,7 +1,7 @@
 # Band-Name-Generator
-Day 1 of 100 Days of Code: A simple Python band name generator using input and string concatenation.
+Day 1 of 100 Days of Code: A simple Python band name generator that uses input and string concatenation.
 
-This is a simple Python script that asks the user for a city and a pet name to generate a band name. It was created as part of Day 1 of my 100 Days of Code: Python journey.
+This project was created for Day 1 of my 100 Days of Code: Python Journey 
 
 ## What I Learned
 
